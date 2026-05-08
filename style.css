@@ -683,3 +683,22 @@ header {
   color: #ff6600;
   margin-top: 10px;
 }
+
+footer {
+  background-color: #111;
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+  margin-top: 40px;
+}
+
+.footer-nav a {
+  color: #ff6600;
+  text-decoration: none;
+  font-weight: bold;
+  margin: 10px;
+}
+
+.footer-nav a:hover {
+  text-decoration: underline;
+}
