@@ -702,3 +702,17 @@ footer {
 .footer-nav a:hover {
   text-decoration: underline;
 }
+
+.video-banner {
+  width: 100%;
+  height: 400px;
+  overflow: hidden;
+  position: relative;
+}
+
+.video-banner video {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
